@@ -1,0 +1,21 @@
+# Deep Learning — M2 DMIA — dépendances communes
+# Installation : pip install -r requirements.txt
+# (Sur Google Colab, tout est déjà préinstallé — rien à faire.)
+#python -m venv env
+#source env/bin/activate
+#env\Scripts\Activate.ps1  
+#env\Scripts\activate.bat  
+
+
+
+
+
+numpy
+matplotlib
+scikit-learn
+jupyter
+
+# Frameworks (les deux sont utilisés dans les TP)
+torch
+torchvision
+tensorflow
